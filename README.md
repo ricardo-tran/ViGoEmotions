@@ -1,6 +1,7 @@
 # ViGoEmotions: A Benchmark Dataset For Fine-grained Emotion Detection on Vietnamese Texts
 
 ## Dataset information: 
++ Link dataset (Gated): https://huggingface.co/datasets/sonlam1102/vigoemotions  
 + Datasize: 20,664 comments from social network sites.
 + Label: 27 categories of emotion, each comment can have multiple emotions.
 

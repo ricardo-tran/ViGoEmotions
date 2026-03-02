@@ -43,5 +43,13 @@ The source code is published in the "model" directory, containing the Jupyter fi
 
 ## Publication: 
 Please cite this paper if you use our dataset: 
-tba 
+```
+@article{tran2026vigoemotions,
+  title={ViGoEmotions: A Benchmark Dataset For Fine-grained Emotion Detection on Vietnamese Texts},
+  author={Tran, Hung Quang and Pham, Nam Tien and Luu, Son T and Van Nguyen, Kiet},
+  journal={arXiv preprint arXiv:2602.08371},
+  year={2026}
+}
+
+``` 
 

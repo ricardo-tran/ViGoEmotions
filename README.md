@@ -41,6 +41,9 @@
 ## Source codes:
 The source code is published in the "model" directory, containing the Jupyter files. 
 
+## License: 
+The dataset is used for research purposes only.  
+
 ## Publication: 
 Please cite this paper if you use our dataset: 
 ```

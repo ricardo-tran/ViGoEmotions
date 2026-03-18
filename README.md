@@ -42,7 +42,10 @@
 The source code is published in the "model" directory, containing the Jupyter files. 
 
 ## License: 
-The dataset is used for research purposes only.  
+- The dataset is only used for non-profit research for natural language processing and education.      
+- The dataset is not allowed to be used in commercial systems.    
+- Do not redistribute the dataset. This dataset may be modified or improved to serve a research purpose better, but the edited dataset may not be distributed.     
+- Summaries, analyses, and interpretations of the properties of the dataset may be derived and published, provided it is not possible to reconstruct the information from these summaries.    
 
 ## Publication: 
 Please cite this paper if you use our dataset: 
